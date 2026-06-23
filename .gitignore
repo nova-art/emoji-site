@@ -1,0 +1,18 @@
+# Build output
+dist/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Emoji data cache
+.emoji-cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
